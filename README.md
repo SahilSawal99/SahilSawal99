@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SahilSawal99
+- 👋 Hi, I’m Sahil Sawal
 - 👀 I’m interested in Software Engineer
 - 🌱 I’m currently learning JAVA FULLSTACK & DSA
 - 💞️ I’m looking to collaborate on Health, Fitness and Wellness Startup ideas.
