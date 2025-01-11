@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sahil Sawal
-- 👀 I’m interested in Software Engineer
-- 🌱 I’m currently learning JAVA FULLSTACK & DSA
-- 💞️ I’m looking to collaborate on Health, Fitness and Wellness Startup ideas.
+- 👀 I’m interested in Frontend Engineer Role
+- 🌱 I’m currently learning Frontend Development, System Design & DSA
+- 💞️ I’m looking to collaborate on Startup ideas.
 - 📫 How to reach me on LINKEDIN ER. Sahil Sawal
 - 😄 Pronouns: Sahil
 - ⚡ Fun fact: Chillinn
