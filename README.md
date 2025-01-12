@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Startup ideas.
 - 📫 How to reach me on LINKEDIN ER. Sahil Sawal
 - 😄 Pronouns: Sahil
-- ⚡ Fun fact: Chillinn
+- ⚡ Fun fact: Chillin
   
 
 <!---
